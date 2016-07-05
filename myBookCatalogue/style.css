@@ -1,0 +1,21 @@
+/* Style sheet My Book Catalogue */
+
+.root {
+  -fx-font: 12pt sans-serif;
+  -fx-background-color: aliceblue;
+  -fx-text-fill: black;
+}
+
+.label {
+  -fx-font-weight: bold;
+  -fx-font-size: 20px;
+  -fx-text-fill: navy;
+}
+
+.button {
+  -fx-font-weight: bold;
+  -fx-text-fill: darkslategrey;
+  -fx-border-width: 2px;
+  -fx-border-color: navy;
+  -fx-background-color: lightgrey;
+}
