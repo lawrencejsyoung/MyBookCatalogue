@@ -1,11 +1,5 @@
-========================
-MY BOOK COLLECTION DESCRIPTION
-========================
-
-
-
 *********************************************************
-*	My Book Collection Application Version 1.0	*
+*	My Book Catalogue Application Version 1.0	*
 *	Copyright © Lawrence Young			*
 *********************************************************
 
